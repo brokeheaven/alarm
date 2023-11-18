@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">passwordprogramm</string>
+    <string name="weak">СЛАБЫЙ ПАРОЛЬ</string>
+    <string name="medium">СРЕДНИЙ ПАРОЛЬ</string>
+    <string name="strong">СИЛЬНЫЙ ПАРОЛЬ</string>
+    <string name="very_strong">СУПЕР СИЛЬНЫЙ ПАРОЛЬ</string>
+
+</resources>
